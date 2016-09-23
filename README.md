@@ -6,3 +6,4 @@ Long Term Goals:
 - Count the number of steps
 - Reverse to get return directions
 - Does not require internet or GPS signal
+- Start in Swift and transfer to Android dev
